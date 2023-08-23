@@ -3,7 +3,7 @@
 
 This repository contains the implementation of the methods described in:
 
-*Joint background removal and denoising of complex features in ultrafast nonlinear Raman spectroscopy via deep learning*
+*Retrieving genuine nonlinear Raman responses in ultrafast spectroscopy via deep learning*
 -reference coming soon-
 
 ## Usage
